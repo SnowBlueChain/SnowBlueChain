@@ -1,4 +1,4 @@
-- 👋 Hi, I’m SnowBlue
+- 👋 Hi, I’m Frank
 - 👀 I’m interested in Crypto
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on a remote environment
